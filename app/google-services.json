@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499262595998",
+    "firebase_url": "https://hauthentication.firebaseio.com",
+    "project_id": "hauthentication",
+    "storage_bucket": "hauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499262595998:android:616d342a835151df",
+        "android_client_info": {
+          "package_name": "com.mac.training.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499262595998-gmpdm58prhvq21nq88s5h4pqpkm02coc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.training.authentication",
+            "certificate_hash": "E7DA1C7BDB3C247007636DABDD869C846ED2857C"
+          }
+        },
+        {
+          "client_id": "499262595998-lmapsi6t8gfckep4cmbt41kb7knhep41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NLOc56NT7Iv8ghhTNdngDFbK1xle9-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499262595998-lmapsi6t8gfckep4cmbt41kb7knhep41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
